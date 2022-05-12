@@ -1,0 +1,19 @@
+body {
+    background: rgba(204, 204, 29, 0.2)
+;
+}
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+.uppercase_text {
+    text-transform: uppercase;
+}
+.number_part {
+    text-align: center;
+}
+.italic_text {
+    font-style: italic;
+}
